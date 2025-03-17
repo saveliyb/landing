@@ -1,0 +1,7 @@
+version: '3'
+services:
+  web:
+    image: my-static-site
+    ports:
+      - "8080:80"
+    restart: always
