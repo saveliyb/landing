@@ -84,4 +84,14 @@
     height: 275px;
     margin-left: initial;
   }
+}@font-face {
+  font-family: '7db44b80-39eb-bc34-2dd1-4d0418453d22';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/7db44b80-39eb-bc34-2dd1-4d0418453d22.otf);
+}@font-face {
+  font-family: 'e784b745-b274-e955-a64d-525917478a7e';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/e784b745-b274-e955-a64d-525917478a7e.otf);
 }
